@@ -1,6 +1,9 @@
 ## Hi.. uh im oscar :3 
 <div align="center"> 
 [![My Skills](https://skillicons.dev/icons?i=py,windows,robloxstudio,github)](https://skillicons.dev)
+# Operating Systems I've used
+[![Operating Systems I've used](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
 
 <!--
 **oscarstars12/oscarstars12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
