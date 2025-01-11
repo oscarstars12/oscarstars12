@@ -1,6 +1,6 @@
 ## Hi.. uh im oscar :3 
 <div align="center"> 
-# Skills
+# My Languages
 [![My Languages](https://skillicons.dev/icons?i=py,css,html)](https://skillicons.dev)
   
 # Operating Systems I've used
