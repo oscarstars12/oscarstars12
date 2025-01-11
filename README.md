@@ -1,8 +1,6 @@
 ## Hi.. uh im oscar :3 
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/oscarstars12/count.svg" alt="Visitor's Count" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,windows,robloxstudio,github)](https://skillicons.dev)
 
 <!--
 **oscarstars12/oscarstars12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
