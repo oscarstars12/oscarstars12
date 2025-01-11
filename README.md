@@ -1,7 +1,7 @@
 ## Hi.. uh im oscar :3 
 <div align="center"> 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=py,windows,robloxstudio,github)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=py,css,html)](https://skillicons.dev)
   
 # Operating Systems I've used
 [![Operating Systems I've used](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
