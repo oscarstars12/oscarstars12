@@ -7,4 +7,6 @@
 # Operating Systems I've used
 [![Operating Systems I've used](https://skillicons.dev/icons?i=linux,windows,kali,ubuntu)](https://skillicons.dev)
 
-#
+# Some things about me
+I am From Poland And Albania!
+I am a music producer still in training!
