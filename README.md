@@ -10,3 +10,5 @@
 # Some things about me
 I am From Poland And Albania!
 I am a music producer still in training!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y218QENN)
